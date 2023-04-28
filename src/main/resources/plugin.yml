@@ -1,0 +1,4 @@
+name: SLNutrials
+version: '${project.version}'
+main: org.mythril.slnutrials.SLNutrials
+api-version: 1.19
